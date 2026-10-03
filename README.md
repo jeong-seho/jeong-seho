@@ -2,12 +2,6 @@
 
 ## Welcome! 👋
 
-### Research Interests
-
-I am interested in quantitatively analyzing the interaction between financial markets and the macroeconomy. I study how frictions faced by production sectors and financial intermediaries shape the dynamics of asset prices and corporate financing decisions. 
-
-**`asset pricing`** **`financial institutions`** **`macrofinance`** **`machine learning`**
-
 ### Contact
 
 ✉️ sehojeong [at] sogang [dot] ac [dot] kr
